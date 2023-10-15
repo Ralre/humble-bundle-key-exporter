@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/javierjulio/humble-bundle-key-exporter.git"
+    "url": "https://github.com/Ralre/humble-bundle-key-exporter.git"
   },
   "keywords": [
     "javascript",
@@ -39,7 +39,7 @@
   "author": "Javier Julio (https://javierjulio.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/javierjulio/humble-bundle-key-exporter/issues"
+    "url": "https://github.com/Ralre/humble-bundle-key-exporter/issues"
   },
-  "homepage": "https://github.com/javierjulio/humble-bundle-key-exporter"
+  "homepage": "https://github.com/Ralre/humble-bundle-key-exporter"
 }
