@@ -23,7 +23,7 @@ export function downloadFile(data, name) {
 const hideRedeemed = async () => {
   const checkbox = document.getElementById('hide-redeemed')
   console.log('Hiding redeemed keys.')
-  if (!checkbox.checked) {
+  if (checkbox.checked) {
     checkbox.click()
     await delayOf(250)
   }
